@@ -1,0 +1,24 @@
+_repo: Through-the-Malay-Archipelago_27422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27422-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richings, Emily
+    gutenberg_agent_id: '32682'
+    url: http://www.gutenberg.org/2009/agents/32682
+description: ''
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Malay Archipelago -- Description and travel'
+title: Through the Malay Archipelago
+url: http://www.gutenberg.org/ebooks/27422
